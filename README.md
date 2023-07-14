@@ -10,6 +10,7 @@ To run this dashboard locally, you will need the following:
 <li>PostgreSQL client library (psycopg2)</li>
 <li>SQLAlchemy library</li>
 <li>Requests library</li>
+<li>Power BI</li>
 </ul>
 
 <H1>Dashboard Pages</H1>
